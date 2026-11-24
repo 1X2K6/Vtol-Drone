@@ -65,3 +65,5 @@ For SAR operations, the drone uses a **4mm front thermal camera**, **dual RunCam
 * **Bench Verification (Props Off): Confirm motor spin directions, motor/pod movement endpoints, and failsafe behavior before attaching propellers.
 * **TFT Shroud: Enclose the 2.4" TFT screen and RunCam FPV #2 in a dark matte printed shroud (PETG-CF or TPU) so ambient sunlight does not wash out the radar display.
 * **RF Separation: Keep the 1.2 GHz VTX antenna separated from the RadioMaster XR3 Nano and 24 GHz radar to minimize RF interference.
+
+## ⚠️ NOTE: The 3d model files are not mine it is bought i just modified some of the models and uploaded them to build the drone you would need to buy the stl files.
