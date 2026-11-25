@@ -67,3 +67,7 @@ For SAR operations, the drone uses a **4mm front thermal camera**, **dual RunCam
 * **RF Separation: Keep the 1.2 GHz VTX antenna separated from the RadioMaster XR3 Nano and 24 GHz radar to minimize RF interference.
 
 ## ⚠️ NOTE: The 3d model files are not mine it is bought i just modified some of the models and uploaded them to build the drone you would need to buy the stl files.
+
+## Below,is a picture of the drone.
+<img width="2185" height="1287" alt="image" src="https://github.com/user-attachments/assets/1ec4ca5d-16a1-4405-bf23-479829cf1c3f" />
+
